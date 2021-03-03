@@ -18,8 +18,8 @@ public class Main {
         frame.setVisible(true);
         frame.setTitle("Cesba");
         frame.setResizable(false);
-       // frame.getContentPane().setBackground(Color.blue);
-        frame.getContentPane().setBackground(new Color(28, 26, 198)); 
+        frame.getContentPane().setBackground(Color.blue);
+        //frame.getContentPane().setBackground(new Color(28, 26, 198)); 
        // frame.getContentPane().setBackground(new Color(0xB2FF33));
     }
 }

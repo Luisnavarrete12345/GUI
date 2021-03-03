@@ -12,6 +12,7 @@ import javax.swing.JFrame;
  * @author luisn
  */
 public class Main {
+    
     public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setSize(300, 400);
